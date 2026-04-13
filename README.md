@@ -89,16 +89,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akkkshat03&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
