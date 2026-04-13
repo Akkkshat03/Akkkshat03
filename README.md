@@ -120,6 +120,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akkkshat03&color=2176AE&style=for-the-badge)
 
-⭐ **If you find my projects useful, consider giving them a star!** ⭐
+
 
 </div>
